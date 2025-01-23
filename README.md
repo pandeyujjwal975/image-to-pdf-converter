@@ -13,7 +13,7 @@
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/image-to-pdf-converter.git
+   git clone https://github.com/pandeyujjwal975/image-to-pdf-converter.git
    cd image-to-pdf-converter
 
 2. Create a virtual environment:
