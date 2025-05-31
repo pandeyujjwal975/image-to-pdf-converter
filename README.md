@@ -71,7 +71,3 @@ Author
 Ujjwal Pandey
 
 
-### Notes:
-- Replace `your-username` with your actual GitHub username.
-- Modify the license section if needed or add a `LICENSE` file to your repository.
-
